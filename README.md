@@ -1,5 +1,7 @@
 # jQuery
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/chiaweilee/jquery-noajax-noeffects-nofocusin-nowrap-nodefered.svg)](https://greenkeeper.io/)
+
 > jQuery is a fast, small, and feature-rich JavaScript library.
 
 For information on how to get started and how to use jQuery, please see [jQuery's documentation](http://api.jquery.com/).
